@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student specializing in Da
 
 ## 🚀 About Me
 
-- 🔬 Currently in my second year, striving for excellence in Data Science.
+- 🔬 Currently in my second year, striving for excellence in Computer Science.
 - 🌱 Learning and implementing Data Structures and Algorithms (DSA) in C++.
 - 💻 Exploring the MERN stack for web development.
 - 📊 Always seeking opportunities to apply my skills in real-world projects.
