@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working as a **Java Spring Boot Intern at GanakGyan**
 - 🌱 I'm focusing on **MERN Stack, Java Spring Boot, React Native, Figma, Power BI, and Full-Stack Development**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/priyyannshhu)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/priyyannshhu?tab=repositories)
 - 💻 I'm passionate about building **scalable web applications** and **modern user experiences**
 
 ## 🚀 Featured Projects
@@ -13,19 +13,19 @@
 **Next.js | React 19 | Inngest | Prisma | OpenAI | Docker**
 - Building a full-stack AI SaaS website generator with background agents (Inngest), live previews, authentication (Clerk), billing, and credit system
 - Used E2B for secure agent runtime and tRPC for end-to-end typesafe APIs
-- *Currently in Progress*
+- *Currently in Progress* | [Repository](https://github.com/priyyannshhu/MERN-AI-AI-SaaS-website-builder)
 
 ### 🎯 IntervAI - AI Mock Interview Platform
 **React | Tailwind | Google Gemini API | Node.js**
 - AI-powered mock interview tool simulating real job interviews with voice-based QA, instant feedback, and analytics
 - Built for scalable use and personalized coaching
-- *Currently in Progress* | [Repository](https://github.com/priyyannshhu/IntervAI)
+- *Currently in Progress* | [Repository](https://github.com/priyyannshhu/Interv-AI)
 
 ### 🕉️ GitaGPT
 **ReactJS | Tailwind CSS | Bhagavad Gita API**
 - Spiritual AI chatbot inspired by the Bhagavad Gita with dynamic quotes, book sections, and multilingual support
 - Integrated Bhagavad Gita API and deployed via Vercel
-- [Live Site](https://gita-gpt-silk.vercel.app/) | [Source Code](https://github.com/priyyannshhu/GitaGPT)
+- [Live Site](https://gita-gpt-silk.vercel.app/) | [Source Code](https://github.com/priyyannshhu/Bluegen)
 
 ### 💬 QuickChat - Real-time Chat Application
 **MERN Stack | Socket.IO | Cloudinary**
@@ -37,11 +37,7 @@
 **Streamlit | Google Gemini API | Python**
 - AI-powered tool that analyzes resumes vs. job descriptions, providing ATS match scores, HR-style feedback, and career insights
 - Built with Gemini API and Streamlit for interactive analysis
-
-### 📊 IPL Analysis Dashboard
-**Power BI | Data Analytics**
-- Comprehensive IPL data analysis covering 2008-2025 seasons
-- Created interactive dashboards for sports analytics
+- - [Live Demo](https://skillscan-ats-resume-analyzer.streamlit.app/) | [Source Code](https://github.com/priyyannshhu/SkillScan-ATS-Resume-Analyzer)
 
 ## 🔮 Upcoming Projects
 *Projects planned for development in the coming months:*
@@ -53,7 +49,9 @@
 - **AI Mobile App Generator** - Website that creates mobile apps using AI (Docker, Bun, VSCode, ASGs)
 - **Real-Time Miro Clone** - Next.js, React, Tailwind collaboration platform
 - **AI-Powered Code Reviewer** - React JS, Tailwind CSS, Gemini API integration
+- **IPL Analysis Dashboard** - Comprehensive IPL data analysis covering 2008-2025 seasons
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/priyanshuvishwakarma11/" target="blank">
