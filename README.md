@@ -9,36 +9,50 @@
 
 ## 🚀 Featured Projects
 
-### 💜 QuickChat - Real-Time Chat Application
+### 💜 MernAI (Final Year Project)
+**Next.js | React 19 | Inngest | Prisma | OpenAI | Docker**
+- Building a full-stack AI SaaS website generator with background agents (Inngest), live previews, authentication (Clerk), billing, and credit system
+- Used E2B for secure agent runtime and tRPC for end-to-end typesafe APIs
+- *Currently in Progress*
+
+### 🎯 IntervAI - AI Mock Interview Platform
+**React | Tailwind | Google Gemini API | Node.js**
+- AI-powered mock interview tool simulating real job interviews with voice-based QA, instant feedback, and analytics
+- Built for scalable use and personalized coaching
+- *Currently in Progress* | [Repository](https://github.com/priyyannshhu/IntervAI)
+
+### 🕉️ GitaGPT
+**ReactJS | Tailwind CSS | Bhagavad Gita API**
+- Spiritual AI chatbot inspired by the Bhagavad Gita with dynamic quotes, book sections, and multilingual support
+- Integrated Bhagavad Gita API and deployed via Vercel
+- [Live Site](https://gita-gpt-silk.vercel.app/) | [Source Code](https://github.com/priyyannshhu/GitaGPT)
+
+### 💬 QuickChat - Real-time Chat Application
 **MERN Stack | Socket.IO | Cloudinary**
-- Built a full-stack real-time messaging platform with image sharing
-- Implemented JWT authentication and online/offline status indicators
+- Full-stack real-time chat application with bi-directional communication and image uploads
+- Enables instant messaging and image sharing between registered users
 - [Live Demo](https://chatquickk.vercel.app) | [Source Code](https://github.com/priyyannshhu/chat-app)
 
-### 🎯 AI Voice Agent Interview Platform
-**React | Node.js | AI Integration**
-- Developed an AI-powered interview platform with real-time voice interaction
-- Integrated advanced AI models for intelligent conversation flow
-
-### 🛒 Full Stack E-Commerce Application
-**React | Stripe | Modern Payment Integration**
-- Built a complete e-commerce solution with secure payment processing
-- Implemented modern UI/UX with responsive design
-
-### 🏠 Airbnb Clone
-**Angular 17 | PrimeNG | Spring Boot 3 | PostgreSQL**
-- Created a full-stack accommodation booking platform
-- Integrated advanced search and filtering capabilities
+### 📄 SkillScan - ATS Resume Analyzer
+**Streamlit | Google Gemini API | Python**
+- AI-powered tool that analyzes resumes vs. job descriptions, providing ATS match scores, HR-style feedback, and career insights
+- Built with Gemini API and Streamlit for interactive analysis
 
 ### 📊 IPL Analysis Dashboard
 **Power BI | Data Analytics**
 - Comprehensive IPL data analysis covering 2008-2025 seasons
 - Created interactive dashboards for sports analytics
 
-### 🎨 Travel App UI Design
-**Figma | UI/UX Design**
-- Designed a complete travel application interface from scratch
-- Focused on user-centered design principles
+## 🔮 Upcoming Projects
+*Projects planned for development in the coming months:*
+
+- **Complete Java Spring Boot eCommerce App** - Production-grade full-stack application
+- **3-Tier Ultimate DevOps CI/CD Pipeline** - Complete DevOps automation project
+- **Cybersecurity Home Lab** - SafeLine Web Application Firewall implementation
+- **Multi-AI Chat App** - Next.js integration with ChatGPT, Claude, Grok, and Gemini
+- **AI Mobile App Generator** - Website that creates mobile apps using AI (Docker, Bun, VSCode, ASGs)
+- **Real-Time Miro Clone** - Next.js, React, Tailwind collaboration platform
+- **AI-Powered Code Reviewer** - React JS, Tailwind CSS, Gemini API integration
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
