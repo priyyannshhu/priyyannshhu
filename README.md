@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Vishwakarma</h1>
 <h3 align="center">A passionate Full-Stack Developer, Java Spring Boot Developer, and MERN Stack enthusiast</h3>
 
-- 🔭 I'm currently working as a **Backend Developer Intern at GanakGyan Technologies** and **Robotics Innovation Engineer at RoboNinja Academy LLP**
+- 🔭 I'm currently working as a **Robotics Innovation Engineer at RoboNinja Academy LLP**
 - 🌱 I'm focusing on **MERN Stack, Java Spring Boot, React Native, Next.js, TypeScript, and AI Integration**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/priyyannshhu?tab=repositories)
 - 💻 I'm passionate about building **scalable web applications**, **AI-powered tools**, and **modern user experiences**
@@ -16,7 +16,7 @@
 • Set up classroom labs and facilitated hands-on learning experiences with embedded systems  
 • Applied practical embedded systems knowledge in real teaching environments
 
-**GanakGyan Technologies** | April 2025 – Present  
+**GanakGyan Technologies** | April 2025 – August 2025   
 *Backend Developer Intern* | Hybrid  
 • Developed and implemented RESTful APIs using Spring Boot for data operations  
 • Ensured efficient communication between Angular frontend and Spring Boot backend  
@@ -30,12 +30,13 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 MernAI (Final Year Project)
-**Next.js | React 19 | Inngest | Prisma | OpenAI | Docker | Clerk | tRPC**
-- Building a full-stack AI SaaS website generator with background agents using Inngest for task processing
-- Implemented live previews, authentication with Clerk, billing system, and credit management
-- Used E2B for secure agent runtime and tRPC for end-to-end typesafe APIs
-- *Currently in Progress* | [Repository](https://github.com/priyyannshhu/MERN-AI-AI-SaaS-website-builder)
+### 🤖 Astra AI - AI Website Builder
+**Next.js 15 | React 19 | Google Gemini | Convex | TailwindCSS**
+- Built an AI-powered website builder that generates complete, responsive websites from natural language descriptions
+- Implemented real-time workspace system with Convex backend for session management and AI chat continuity
+- Integrated Google Gemini API for intelligent website structure, layout, and content generation
+- Features include interactive AI editing, dark mode, Google OAuth authentication, and live code preview with Sandpack
+- *Live Demo:* [astra-ai-website-builder.vercel.app](https://astra-ai-website-builder.vercel.app/) | [Repository](https://github.com/priyyannshhu/astra-ai)
 
 ### 🤖 HumanifyAI - AI Text Humanizer
 **Vite | TypeScript | React | shadcn/ui | Tailwind CSS**
