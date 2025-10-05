@@ -36,7 +36,7 @@
 - Implemented real-time workspace system with Convex backend for session management and AI chat continuity
 - Integrated Google Gemini API for intelligent website structure, layout, and content generation
 - Features include interactive AI editing, dark mode, Google OAuth authentication, and live code preview with Sandpack
-- *Live Demo:* [astra-ai-website-builder.vercel.app](https://astra-ai-website-builder.vercel.app/) | [Repository](https://github.com/priyyannshhu/astra-ai)
+- *Live Demo:* [Live Demo](https://astra-ai-website-builder.vercel.app/) | [Repository](https://github.com/priyyannshhu/astra-ai)
 
 ### 🤖 HumanifyAI - AI Text Humanizer
 **Vite | TypeScript | React | shadcn/ui | Tailwind CSS**
