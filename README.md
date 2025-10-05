@@ -36,7 +36,7 @@
 - Implemented real-time workspace system with Convex backend for session management and AI chat continuity
 - Integrated Google Gemini API for intelligent website structure, layout, and content generation
 - Features include interactive AI editing, dark mode, Google OAuth authentication, and live code preview with Sandpack
-- *Live Demo:* [Live Demo](https://astra-ai-website-builder.vercel.app/) | [Repository](https://github.com/priyyannshhu/astra-ai)
+- [Live Demo](https://astra-ai-website-builder.vercel.app/) | [Repository](https://github.com/priyyannshhu/astra-ai)
 
 ### 🤖 HumanifyAI - AI Text Humanizer
 **Vite | TypeScript | React | shadcn/ui | Tailwind CSS**
@@ -197,9 +197,6 @@
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
-  </a>
-  <a href="https://convex.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://docs.convex.dev/favicon.png" alt="Convex" width="40" height="40"/> 
   </a>
 </p>
 
