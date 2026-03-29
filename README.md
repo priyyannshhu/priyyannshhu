@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/priyanshu-vishwakarmaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:data.priyyannshhu@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#ddb9bca9bcf3adafb4a4a4bcb3b3aeb5b5a89dbab0bcb4b1f3beb2b0">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/priyyannshuu/" target="_blank">
@@ -255,6 +255,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyyannshhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+## 🟩 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyyannshhu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyyannshhu&color=6C63FF&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Contributions_(Last_Year)-230-39D353?style=flat-square&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/March_2026_Commits-68-39D353?style=flat-square&logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repos_Created_(Mar_2026)-8-6C63FF?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+> 🔥 **230 contributions** in the last year &nbsp;|&nbsp; **68 commits** across **10 repositories** in March 2026 &nbsp;|&nbsp; **8 new repositories** launched this month
+
 ---
 
 ## 📜 Certifications
@@ -302,8 +320,4 @@
 <p align="center">
   <i>💜 "Building the future, one line of code at a time"</i><br/>
   <i>🚀 Turning ideas into scalable solutions through innovative technology</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyyannshhu&color=6C63FF&style=flat-square&label=Profile+Views" />
 </p>
